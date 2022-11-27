@@ -33,5 +33,8 @@ build/
 ### VS Code ###
 .vscode/
 
+### Secure Bundle ###
+/src/main/resources/secure-connect.zip
+
 ### secret keys ###
 /src/main/resources/secrets.yml
