@@ -1,4 +1,4 @@
-package io.javabrains.betterreads.user;
+package com.practice.betterreads.user;
 
 import com.datastax.oss.driver.api.core.uuid.Uuids;
 import org.springframework.data.annotation.Transient;

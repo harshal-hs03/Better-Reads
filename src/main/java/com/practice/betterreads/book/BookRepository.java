@@ -1,4 +1,4 @@
-package io.javabrains.betterreads.book;
+package com.practice.betterreads.book;
 
 import org.springframework.data.cassandra.repository.CassandraRepository;
 import org.springframework.stereotype.Repository;

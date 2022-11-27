@@ -1,6 +1,6 @@
-package io.javabrains.betterreads;
+package com.practice.betterreads;
 
-import io.javabrains.betterreads.connection.DataStaxAstraProperties;
+import com.practice.betterreads.connection.DataStaxAstraProperties;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.cassandra.CqlSessionBuilderCustomizer;

@@ -1,7 +1,7 @@
-package io.javabrains.betterreads.home;
+package com.practice.betterreads.home;
 
-import io.javabrains.betterreads.user.BooksByUser;
-import io.javabrains.betterreads.user.BooksByUserRepository;
+import com.practice.betterreads.user.BooksByUser;
+import com.practice.betterreads.user.BooksByUserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.cassandra.core.query.CassandraPageRequest;
 import org.springframework.data.domain.Slice;

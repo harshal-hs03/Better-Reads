@@ -1,4 +1,4 @@
-package io.javabrains.betterreads.userbooks;
+package com.practice.betterreads.userbooks;
 
 import org.springframework.data.cassandra.core.mapping.CassandraType;
 import org.springframework.data.cassandra.core.mapping.Column;

@@ -1,4 +1,4 @@
-package io.javabrains.betterreads.search;
+package com.practice.betterreads.search;
 
 import java.util.List;
 
